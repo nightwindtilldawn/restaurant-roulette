@@ -1,0 +1,28 @@
+body {
+  background-image: url(../css/bkgrd.jpg);
+  background-position: center center;
+  transition: 4s linear;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "BioRhyme", serif;
+}
+
+h3,
+h2 {
+  text-shadow: 0 1px 2px;
+}
+
+.button {
+  transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
