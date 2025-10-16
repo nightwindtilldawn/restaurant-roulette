@@ -24,9 +24,6 @@ Bon Appetit!
 
 ## Deployment: Live URL
 
-<https://johnsonr84.github.io/restaurant-roulette/>
-
-
 The following image shows the web application's appearance and functionality:
 
 Step 1 - Enter Zipcode and select "Let's Eat"
